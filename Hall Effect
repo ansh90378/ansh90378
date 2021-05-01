@@ -1,0 +1,26 @@
+
+#include <stdio.h>
+
+int main()   
+{ 
+    float B,t,Vh,I,Rh,RH,n;   
+    double e=1.602;
+    
+    scanf("%f" , &I); 
+    printf("Current supply: %f \n" , I);   
+    scanf("%f" , &B);   
+    printf("The magnetic field: %f \n" , B);   
+    scanf("%f" , &t);   
+    printf("The thickness: %f \n" , t);  
+    scanf("%f" , &Vh);   
+    printf("Hall voltage: %.3f \n" , Vh);   
+
+    Rh = (Vh*t)/(I*B);   
+    printf("Hall coefficient: %f\n" , Rh);   
+
+    RH = Rh*0.001 ;   
+    printf("Hall coefficient: %.10f\n" , RH);   
+    
+    n = 1/(RH*e);  
+    printf("Charge Carrier Density: %.10lf" , n);  
+} 
