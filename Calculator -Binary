@@ -1,0 +1,48 @@
+/*calculaator to Binary calculation
+canditional statments is used for Binary calculations*/ 
+#include <stdio.h>
+#include <math.h>
+int main()
+{
+    float n1,n2;
+    char o_p,a,s,m,d ;
+    double t;
+
+    scanf("%f" , &n1);
+    scanf("%f" , &n2);
+    scanf("%c" , &o_p);
+    
+    if(o_p=a);
+    {
+        printf("first number:%f\n" , n1);
+        printf("second number:%f\n" , n2);
+        t=n1+n2 ;
+        printf("totel=%f\n" , t);
+    }
+    else if(o_p=s)
+    {
+        printf("first number:%f\n" , n1);
+        printf("second number:%f\n" , n2);
+        t=n1-n2 ;
+        printf("totel=%f\n" , t);
+    }
+    else if(o_p=m)
+    {
+        printf("first number:%f\n" , n1);
+        printf("second number:%f\n" , n2);
+        t=n1*n2 ;
+        printf("totel=%f\n" , t);
+    }
+    else if(o_p=d)
+    {
+        printf("first number:%f\n" , n1);
+        printf("second number:%f\n" , n2);
+        t=n1/n2 ;
+        printf("totel=%f\n" , t);
+    }
+    else
+    {
+        printf("Choose correct oprater");
+    }
+    return 0;
+}
