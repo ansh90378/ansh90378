@@ -2,7 +2,7 @@
 
 
 I am Instraed in ML,AI,WEBD,DATA STURUCTURE,ANIMATION.
-✨ GRAPHIC DESIGNING ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ GRAPHIC DESIGNER ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
