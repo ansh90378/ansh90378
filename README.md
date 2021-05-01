@@ -2,6 +2,10 @@
 
 
 I am Instraed in ML,AI,WEBD,DATA STURUCTURE,ANIMATION.
+
+
+
+
 ✨ GRAPHIC DESIGNER ✨
 
 
