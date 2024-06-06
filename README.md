@@ -19,7 +19,7 @@ I'm a Data Analyst with a passion for Data Science. I love working on projects t
 - **Other**: CopyWriting.
 
 ### Badges
-
+[![50 Days Leetcode Badge](https://github.com/ansh90378/ansh90378/assets/78586456/d618cf4d-bf58-46b5-b7f7-c9bd3920d7a3)](https://leetcode.com/u/ansh90378/)
 
 
 ### Connect with Me
