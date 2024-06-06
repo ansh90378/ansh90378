@@ -1,5 +1,29 @@
-### Hello My Name Is Ansh 👋
+# Hello My Name Is Ansh 👋
 
-I am Instraed in ML,AI,WEBD,DATA Science,ANIMATION.
+### About Me
 
-✨ GRAPHIC DESIGNER ✨
+I'm a Data Analyst with a passion for Data Science. I love working on projects that involve Artificial Intelligence, Macjine Learning, Neural Networks and Analysis tools(Python Data Visuallization, PowerBI).
+
+- 🔭 I’m currently working on Cohasive Script Generation (GenAL).
+- 🌱 I’m currently learning Artificail Intelligence.
+- 🤔 I’m looking for help with Statiscal Analysis.
+- 💬 Ask me about Python, Data Analysis, Machine Learning, Data Visualization or Googl.
+- 📫 How to reach me: ansh90378@gmail.com.
+- ⚡ Fun fact: I am a Freelance Copywriter.
+
+### My Skills
+
+- **Languages**: C++, Python, C, R.
+- **Frameworks**: Pandas, Numpy, TensorFlow, Keras, Scikit-Learn. 
+- **Tools**: PyCharm, Google Meet, MySQL, Microsoft Office.
+- **Other**: CopyWriting.
+
+### Badges
+
+
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-chauhan-4430741a9)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k20a855ansh@gmail.com)
+
