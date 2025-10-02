@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Data Analyst with a passion for Data Science. I love working on projects that involve Artificial Intelligence, Macjine Learning, Neural Networks and Analysis tools(Python Data Visuallization, PowerBI).
+I'm a Data Analyst with a passion for GenAI. I love working on projects that involve Artificial Intelligence, Macjine Learning, Neural Networks and Analysis tools(Python Data Visuallization, PowerBI).
 
 - 🔭 I’m currently working on Cohasive Script Generation (GenAL).
 - 🌱 I’m currently learning Artificail Intelligence.
